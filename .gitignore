@@ -1,0 +1,19 @@
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+
+# Node.js
+node_modules/
+dist/
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# Config
+config.yaml
